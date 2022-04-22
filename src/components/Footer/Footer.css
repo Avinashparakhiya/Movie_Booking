@@ -1,0 +1,11 @@
+p {
+    color: white;
+    margin-top: revert;
+    font-family: serif;
+}
+
+footer.bg-dark {
+    position: fixed;
+    bottom: 0;
+    width: -webkit-fill-available;
+}
